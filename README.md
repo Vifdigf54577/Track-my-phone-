@@ -1,6 +1,6 @@
 # Track-my-phone-
 <p align="center">
-  <img src="/logo.PNG" alt="logo" style="max-width: auto%; height: auto;" />
+  <img src="/" alt="logo" style="max-width: auto%; height: auto;" />
 
 </p>
 <p align="center">
